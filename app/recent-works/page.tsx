@@ -16,81 +16,81 @@ const videoData: Record<WorkCategory, VideoData[]> = {
   wedding: [
     {
       id: "1",
-      title: "Sarah & Michael's Wedding",
+      title: "WEDDING_TEASER",
       embedId: "8HfbCMKrNQw",
     },
     {
       id: "2",
-      title: "Emma & James Wedding Highlights",
+      title: "WEDDING_LANE&ERICA",
       embedId: "MFDup8oo8JE",
     },
     {
       id: "3",
-      title: "Garden Wedding Ceremony",
+      title: "WEDDING_TEASER",
       embedId: "sMZ4bANrnyg",
     },
     {
       id: "4",
-      title: "Beach Wedding Special",
+      title: "PRE_WEDDING",
       embedId: "ekq6Dd5eR18",
     },
     {
       id: "5",
-      title: "Beach Wedding Special",
+      title: "WEDDING",
       embedId: "x4dPA6dQ6K4",
     },
   ],
   tvc: [
     {
       id: "6",
-      title: "Brand Commercial - Tech Startup",
+      title: "TVC_SIMPLECARRY",
       embedId: "cjChNhR7BcI",
     },
     {
       id: "7",
-      title: "Product Launch Campaign",
+      title: "TVC_LCKSPA",
       embedId: "nBvXUCakE1U",
     },
     {
       id: "8",
-      title: "Corporate Brand Story",
+      title: "TVC_VEST_HOMEESET",
       embedId: "xvyohA0EoxA",
     },
     {
       id: "9",
-      title: "Fashion Brand Commercial",
+      title: "TVC_KINGSTONE BBQ",
       embedId: "fyJGKMrgarY",
     },
     {
       id: "10",
-      title: "Fashion Brand Commercial",
+      title: "TVC_VEST_HOMEESET",
       embedId: "8kvvhxEXJ8s",
     },
     {
       id: "11",
-      title: "Fashion Brand Commercial",
+      title: "SIMPLECARRY",
       embedId: "4zHrs4BNpKs",
     },
   ],
   recap: [
     {
       id: "12",
-      title: "2023 Year in Review",
+      title: "MAKEBBxCLAPS",
       embedId: "n2_h6csw-F8",
     },
     {
       id: "13",
-      title: "Event Recap - Music Festival",
+      title: "BTS_BULLSTONE",
       embedId: "rsortqct0x0",
     },
     {
       id: "14",
-      title: "Conference Highlights",
+      title: "BTS_THECAFESHOW",
       embedId: "VH4NMVdFXwE",
     },
     {
       id: "15",
-      title: "Behind the Scenes Recap",
+      title: "B",
       embedId: "-K7d_IJbPqY",
     },
   ],

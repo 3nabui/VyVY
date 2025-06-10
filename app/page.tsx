@@ -82,7 +82,7 @@ export default function Home() {
               <div className="flex flex-wrap justify-center gap-8 mb-12">
                 <div className="flex items-center space-x-2 bg-white/60 backdrop-blur-sm rounded-full px-6 py-3 shadow-lg">
                   <Award className="h-6 w-6 text-blue-600" />
-                  <span className="font-semibold text-gray-800">4+ Years</span>
+                  <span className="font-semibold text-gray-800">2+ Years</span>
                 </div>
                 <div className="flex items-center space-x-2 bg-white/60 backdrop-blur-sm rounded-full px-6 py-3 shadow-lg">
                   <Users className="h-6 w-6 text-purple-600" />
