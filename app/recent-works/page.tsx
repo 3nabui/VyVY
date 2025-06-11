@@ -87,12 +87,7 @@ const videoData: Record<WorkCategory, VideoData[]> = {
       id: "14",
       title: "BTS_THECAFESHOW",
       embedId: "VH4NMVdFXwE",
-    },
-    {
-      id: "15",
-      title: "B",
-      embedId: "-K7d_IJbPqY",
-    },
+    }
   ],
 }
 
